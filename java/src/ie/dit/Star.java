@@ -1,5 +1,5 @@
 package ie.dit;
-
+8
 import processing.data.TableRow;
 
 public class Star
